@@ -24,3 +24,7 @@ To get started:
    ```sh
    npx promptfoo@latest view
    ```
+   
+
+Results:
+^^^ this works fine even at timeouts of more than 300secs
