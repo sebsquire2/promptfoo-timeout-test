@@ -6,10 +6,10 @@ providers:
     config:
       someOption: foobar
 
-  - id: python:provider.py:some_other_function
-
-  - id: python:provider.py:async_provider
-    label: async provider
+#  - id: python:provider.py:some_other_function
+#
+#  - id: python:provider.py:async_provider
+#    label: async provider
 
 tests:
   - vars:
